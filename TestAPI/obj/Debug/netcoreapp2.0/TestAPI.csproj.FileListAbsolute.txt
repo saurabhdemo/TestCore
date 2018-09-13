@@ -1,0 +1,11 @@
+c:\users\saurabh\source\repos\TestAPI\TestAPI\bin\Debug\netcoreapp2.0\TestAPI.deps.json
+c:\users\saurabh\source\repos\TestAPI\TestAPI\bin\Debug\netcoreapp2.0\TestAPI.runtimeconfig.json
+c:\users\saurabh\source\repos\TestAPI\TestAPI\bin\Debug\netcoreapp2.0\TestAPI.runtimeconfig.dev.json
+c:\users\saurabh\source\repos\TestAPI\TestAPI\bin\Debug\netcoreapp2.0\TestAPI.dll
+c:\users\saurabh\source\repos\TestAPI\TestAPI\bin\Debug\netcoreapp2.0\TestAPI.pdb
+c:\users\saurabh\source\repos\TestAPI\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.csprojAssemblyReference.cache
+c:\users\saurabh\source\repos\TestAPI\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.csproj.CoreCompileInputs.cache
+c:\users\saurabh\source\repos\TestAPI\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.AssemblyInfoInputs.cache
+c:\users\saurabh\source\repos\TestAPI\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.AssemblyInfo.cs
+c:\users\saurabh\source\repos\TestAPI\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.dll
+c:\users\saurabh\source\repos\TestAPI\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.pdb
